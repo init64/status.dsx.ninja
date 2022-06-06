@@ -1,0 +1,13 @@
+- `/status:`
+- - `/server?ip=IP`
+- - `/list`
+- - `/restart`
+- - `/stop`
+- - `/start`
+- `/servers:`
+- - `/add`
+- - `/remove`
+- - `/removeall`
+- - `/list:`
+- - - `/get`
+- - - `/set`
